@@ -32,4 +32,5 @@ done
 # http://stackoverflow.com/questions/5799303/print-a-character-repeatedly-in-bash
 # http://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
 # http://stackoverflow.com/questions/36380867/how-to-get-the-number-of-columns-occupied-by-a-character-in-terminal
+# http://superuser.com/questions/823883/how-to-justify-and-center-text-in-bash 
 # 
